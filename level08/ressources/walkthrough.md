@@ -1,3 +1,4 @@
+there is a token file in the home directory probably containing a flag.
 opening the binary in binaryninja
 ![binaryninja](./binaryninja.png) 
 we can see a check if the file is containing the string 'token'.
