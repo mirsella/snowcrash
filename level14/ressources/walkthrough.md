@@ -7,6 +7,7 @@ the ft_des function decode thoses token to give us the end flag.
 ![ft_des](./ft_des.png)
 
 we will launch the program with gdb and jump to the call to fputs and ft_des to get the token and the flag.
+![the last token's address](./last-token.png)
 
 ```shell
 gdb getflag
